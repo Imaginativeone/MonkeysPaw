@@ -1,6 +1,7 @@
 # The Monkey's Paw
 W.W. Jacobs
 
+## Chess Game
 - Without, the night was cold and wet, but in the small parlour of Laburnam Villa the blinds were drawn and the fire burned brightly. Father and son were at chess, 
 the former, who possessed ideas about the game involving radical changes, putting his king into such sharp and unnecessary perils that it even provoked comment 
 from the white-haired old lady knitting placidly by the fire.
@@ -9,11 +10,11 @@ from the white-haired old lady knitting placidly by the fire.
 "I'm listening," said the latter, grimly surveying the board as he stretched out his hand. "Check."
 "I should hardly think that he'd come to-night," said his father, with his hand poised over the board.
 
-"Mate," replied the son.
+- "Mate," replied the son.
 
-"That's the worst of living so far out," bawled Mr. White, with sudden and unlooked-for violence; "of all the beastly, slushy, out-of-the- way places to live in, this is the worst. Pathway's a bog, and the road's a torrent. I don't know what people are thinking about. I suppose because only two houses on the road are let, they think it doesn't matter."
+- "That's the worst of living so far out," bawled Mr. White, with sudden and unlooked-for violence; "of all the beastly, slushy, out-of-the- way places to live in, this is the worst. Pathway's a bog, and the road's a torrent. I don't know what people are thinking about. I suppose because only two houses on the road are let, they think it doesn't matter."
 
-"Never mind, dear," said his wife soothingly; "perhaps you'll win the next one."
+- "Never mind, dear," said his wife soothingly; "perhaps you'll win the next one."
 Mr. White looked up sharply, just in time to intercept a knowing glance between mother and son. The words died away on his lips, and he hid a guilty grin in his thin grey beard.
 
 "There he is," said Herbert White, as the gate banged too loudly and heavy footsteps came toward the door.
