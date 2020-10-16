@@ -17,6 +17,7 @@ from the white-haired old lady knitting placidly by the fire.
 - "Never mind, dear," said his wife soothingly; "perhaps you'll win the next one."
 Mr. White looked up sharply, just in time to intercept a knowing glance between mother and son. The words died away on his lips, and he hid a guilty grin in his thin grey beard.
 
+## A Visitor Arrives (The Sergeant Major)
 "There he is," said Herbert White, as the gate banged too loudly and heavy footsteps came toward the door.
 The old man rose with hospitable haste, and opening the door, was heard condoling with the new arrival. The new arrival also condoled with himself, so that Mrs. White said, "Tut, tut!" and coughed gently as her husband entered the room, followed by a tall burly man, beady of eye and rubicund of visage.
 "Sergeant-Major Morris," he said, introducing him.
