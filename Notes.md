@@ -24,14 +24,21 @@ The old man rose with hospitable haste, and opening the door, was heard condolin
 
 The sergeant-major shook hands, and taking the proffered seat by the fire, watched contentedly while his host got out whisky and tumblers and stood a small copper kettle on the fire.
 
-At the third glass his eyes got brighter, and he began to talk, the little family circle regarding with eager interest this visitor from distant parts, as he squared his broad shoulders in the chair and spoke of strange scenes and doughty deeds; of wars and plagues and strange peoples.
-"Twenty-one years of it," said Mr. White, nodding at his wife and son. "When he went away he was a slip of a youth in the warehouse. Now look at him."
+- At the third glass his eyes got brighter, and he began to talk, the little family circle regarding with eager interest this visitor from distant parts, as he squared his broad shoulders in the chair and spoke of strange scenes and doughty deeds; of wars and plagues and strange peoples.
+
+- "Twenty-one years of it," said Mr. White, nodding at his wife and son. "When he went away he was a slip of a youth in the warehouse. Now look at him."
 "He don't look to have taken much harm," said Mrs. White, politely.
-"I'd like to go to India myself," said the old man, "just to look round a bit, you know."
+
+- "I'd like to go to India myself," said the old man, "just to look round a bit, you know."
 "Better where you are," said the sergeant-major, shaking his head. He put down the empty glass, and sighing softly, shook it again.
-"I should like to see those old temples and fakirs and jugglers," said the old man. "What was that you started telling me the other day about a monkey's paw or something, Morris?"
+"I should like to see those old temples and fakirs and jugglers," said the old man.
+
+## The Monkey's Paw Story
+"What was that you started telling me the other day about a monkey's paw or something, Morris?"
+
 "Nothing," said the soldier hastily. "Leastways, nothing worth hearing."
 "Monkey's paw?" said Mrs. White curiously.
+
 "Well, it's just a bit of what you might call magic, perhaps," said the sergeant-major off-handedly.
 His three listeners leaned forward eagerly. The visitor absentmindedly put his empty glass to his lips and then set it down again. His host filled it for him.
 "To look at," said the sergeant-major, fumbling in his pocket, "it's just an ordinary little paw, dried to a mummy."
