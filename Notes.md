@@ -163,46 +163,38 @@ EXPLANATION
 The family has been making sarcastic comments about the monkey's paw. When Herbert says, "Don't break in to the money before I come back," he is joking about how the monkey's paw doesn't work.
 
 CORRECT ME ANSWER
-	
 They make fun of it and don't believe it will come to anything.
-
-	
 They honor it as a special token from their dear friend, the sergeant.
-
-	
 They enviously fight over it because each one of them wants to make the remaining wish.
 
+- "I say it did," replied the other. "There was no thought about it; I had just----What's the matter?"
 
-"I say it did," replied the other. "There was no thought about it; I had just----What's the matter?"
+- His wife made no reply. She was watching the mysterious movements of a man outside, who, peering in an undecided fashion at the house, appeared to be trying to make up his mind to enter. In mental connection with the two hundred pounds, she noticed that the stranger was well dressed and wore a silk hat of glossy newness. Three times he paused at the gate, and then walked on again. The fourth time he stood with his hand upon it, and then with sudden resolution flung it open and walked up the path. Mrs. White at the same moment placed her hands behind her, and hurriedly unfastening the strings of her apron, put that useful article of apparel beneath the cushion of her chair.
 
-His wife made no reply. She was watching the mysterious movements of a man outside, who, peering in an undecided fashion at the house, appeared to be trying to make up his mind to enter. In mental connection with the two hundred pounds, she noticed that the stranger was well dressed and wore a silk hat of glossy newness. Three times he paused at the gate, and then walked on again. The fourth time he stood with his hand upon it, and then with sudden resolution flung it open and walked up the path. Mrs. White at the same moment placed her hands behind her, and hurriedly unfastening the strings of her apron, put that useful article of apparel beneath the cushion of her chair.
+- She brought the stranger, who seemed ill at ease, into the room. He gazed at her furtively, and listened in a preoccupied fashion as the old lady apologized for the appearance of the room, and her husband's coat, a garment which he usually reserved for the garden. She then waited as patiently as her sex would permit, for him to broach his business, but he was at first strangely silent.
 
-She brought the stranger, who seemed ill at ease, into the room. He gazed at her furtively, and listened in a preoccupied fashion as the old lady apologized for the appearance of the room, and her husband's coat, a garment which he usually reserved for the garden. She then waited as patiently as her sex would permit, for him to broach his business, but he was at first strangely silent.
-
-"I--was asked to call," he said at last, and stooped and picked a piece of cotton from his trousers. "I come from Maw and Meggins."
+- "I--was asked to call," he said at last, and stooped and picked a piece of cotton from his trousers. "I come from Maw and Meggins."
 The old lady started. "Is anything the matter?" she asked breathlessly. "Has anything happened to Herbert? What is it? What is it?"
 
-Her husband interposed. "There, there, mother," he said hastily. "Sit down, and don't jump to conclusions. You've not brought bad news, I'm sure, sir" and he eyed the other wistfully.
+- Her husband interposed. "There, there, mother," he said hastily. "Sit down, and don't jump to conclusions. You've not brought bad news, I'm sure, sir" and he eyed the other wistfully.
 
-"I'm sorry----" began the visitor.
-
+- "I'm sorry----" began the visitor.
 "Is he hurt?" demanded the mother.
-
 The visitor bowed in assent. "Badly hurt," he said quietly, "but he is not in any pain."
 
-"Oh, thank God!" said the old woman, clasping her hands. "Thank God for that! Thank----"
+- "Oh, thank God!" said the old woman, clasping her hands. "Thank God for that! Thank----"
 
-She broke off suddenly as the sinister meaning of the assurance dawned upon her and she saw the awful confirmation of her fears in the other's averted face. She caught her breath, and turning to her slower-witted husband, laid her trembling old hand upon his. There was a long silence.
+- She broke off suddenly as the sinister meaning of the assurance dawned upon her and she saw the awful confirmation of her fears in the other's averted face. She caught her breath, and turning to her slower-witted husband, laid her trembling old hand upon his. There was a long silence.
 
-"He was caught in the machinery," said the visitor at length, in a low voice.
+- "He was caught in the machinery," said the visitor at length, in a low voice.
 
-"Caught in the machinery," repeated Mr. White, in a dazed fashion, "yes."
+- "Caught in the machinery," repeated Mr. White, in a dazed fashion, "yes."
 
-He sat staring blankly out at the window, and taking his wife's hand between his own, pressed it as he had been wont to do in their old courting days nearly forty years before.
+- He sat staring blankly out at the window, and taking his wife's hand between his own, pressed it as he had been wont to do in their old courting days nearly forty years before.
 
-"He was the only one left to us," he said, turning gently to the visitor. "It is hard."
+- "He was the only one left to us," he said, turning gently to the visitor. "It is hard."
 
-The other coughed, and rising, walked slowly to the window. "The firm wished me to convey their sincere sympathy with you in your great loss," he said, without looking round. "I beg that you will understand I am only their servant and merely obeying orders."
+- The other coughed, and rising, walked slowly to the window. "The firm wished me to convey their sincere sympathy with you in your great loss," he said, without looking round. "I beg that you will understand I am only their servant and merely obeying orders."
 
 There was no reply; the old woman's face was white, her eyes staring, and her breath inaudible; on the husband's face was a look such as his friend the sergeant might have carried into his first action.
 
@@ -227,6 +219,7 @@ no
 
 25%
 
+## III
 III.
 
 IN the huge new cemetery, some two miles distant, the old people buried their dead, and came back to a house steeped in shadow and silence. It was all over so quickly that at first they could hardly realize it, and remained in a state of expectation as though of something else to happen--something else which was to lighten this load, too heavy for old hearts to bear.
