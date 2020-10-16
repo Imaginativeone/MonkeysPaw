@@ -1,3 +1,18 @@
+QUESTION 1  1 ALIGNED STANDARD
+Pre-reading Question: Think about fate and free will.  Are they the same? Explain.
+EXTRA HELP
+Fate is when something unavoidable happens to someone. Free will is the ability for someone to act on their own choices; voluntarily. 
+There different its the difference between a person doing something by choice or by force.
+ Emerging
+REVISE ANSWER
+CE
+Mrs. Evans
+Which is which?
+Reminders:
+Please use correct grammar, correct capitalization and correct punctuation in your responses.
+They are = They're
+It is = It's
+
 # The Monkey's Paw
 W.W. Jacobs
 
@@ -73,6 +88,7 @@ The soldier shook his head. "Fancy, I suppose," he said slowly.
 "I won't," said his friend doggedly. "I threw it on the fire. If you keep it, don't blame me for what happens. Pitch it on the fire again, like a sensible man."
 The other shook his head and examined his new possession closely. "How do you do it?" he inquired.
 "Hold it up in your right hand and wish aloud,' said the sergeant-major, "but I warn you of the consequences."
+
 QUESTION 2 DOK 1  7 ALIGNED STANDARDS
 What warning does the soldier give to Mr. White?
 EXPLANATION
@@ -86,31 +102,34 @@ to avoid using the monkey's paw
 "Sounds like the Arabian Nights," said Mrs. White, as she rose and began to set the supper. "Don't you think you might wish for four pairs of hands for me?"
 Her husband drew the talisman from his pocket and then all three burst into laughter as the sergeant-major, with a look of alarm on his face, caught him by the arm.
 
-"If you must wish," he said gruffly, "wish for something sensible."
+- "If you must wish," he said gruffly, "wish for something sensible."
 Mr. White dropped it back into his pocket, and placing chairs, motioned his friend to the table. In the business of supper the talisman was partly forgotten, and afterward the three sat listening in an enthralled fashion to a second installment of the soldier's adventures in India.
 
-"If the tale about the monkey paw is not more truthful than those he has been telling us," said Herbert, as the door closed behind their guest, just in time for him to catch the last train, "we shan't make much out of it."
-"Did you give him anything for it, father?" inquired Mrs. White, regarding her husband closely.
+- "If the tale about the monkey paw is not more truthful than those he has been telling us," said Herbert, as the door closed behind their guest, just in time for him to catch the last train, "we shan't make much out of it."
 
-"A trifle," said he, colouring slightly. "He didn't want it, but I made him take it. And he pressed me again to throw it away."
+- "Did you give him anything for it, father?" inquired Mrs. White, regarding her husband closely.
 
-"Likely," said Herbert, with pretended horror. "Why, we're going to be rich, and famous, and happy. Wish to be an emperor, father, to begin with; then you can't be henpecked."
-He darted round the table, pursued by the maligned Mrs. White armed with an antimacassar.
-Mr. White took the paw from his pocket and eyed it dubiously. "I don't know what to wish for, and that's a fact," he said slowly. "It seems to me I've got all I want."
+- "A trifle," said he, colouring slightly. "He didn't want it, but I made him take it. And he pressed me again to throw it away."
 
-"If you only cleared the house, you'd be quite happy, wouldn't you?" said Herbert, with his hand on his shoulder. "Well, wish for two hundred pounds, then; that'll just do it."
-His father, smiling shamefacedly at his own credulity, held up the talisman, as his son, with a solemn face somewhat marred by a wink at his mother, sat down at the piano and struck a few impressive chords.
+- "Likely," said Herbert, with pretended horror. "Why, we're going to be rich, and famous, and happy. Wish to be an emperor, father, to begin with; then you can't be henpecked."
 
-"I wish for two hundred pounds," said the old man distinctly.
+- He darted round the table, pursued by the maligned Mrs. White armed with an antimacassar.
+- Mr. White took the paw from his pocket and eyed it dubiously. "I don't know what to wish for, and that's a fact," he said slowly. "It seems to me I've got all I want."
 
-A fine crash from the piano greeted the words, interrupted by a shuddering cry from the old man. His wife and son ran toward him.
+- "If you only cleared the house, you'd be quite happy, wouldn't you?" said Herbert, with his hand on his shoulder. "Well, wish for two hundred pounds, then; that'll just do it."
 
-"It moved," he cried, with a glance of disgust at the object as it lay on the floor. "As I wished it twisted in my hands like a snake."
+- His father, smiling shamefacedly at his own credulity, held up the talisman, as his son, with a solemn face somewhat marred by a wink at his mother, sat down at the piano and struck a few impressive chords.
+
+- "I wish for two hundred pounds," said the old man distinctly.
+
+- A fine crash from the piano greeted the words, interrupted by a shuddering cry from the old man. His wife and son ran toward him.
+
+- "It moved," he cried, with a glance of disgust at the object as it lay on the floor. "As I wished it twisted in my hands like a snake."
 "Well, I don't see the money," said his son, as he picked it up and placed it on the table, "and I bet I never shall."
 
-"It must have been your fancy, father," said his wife, regarding him anxiously.
+- "It must have been your fancy, father," said his wife, regarding him anxiously.
 
-He shook his head. "Never mind, though; there's no harm done, but it gave me a shock all the same."
+- He shook his head. "Never mind, though; there's no harm done, but it gave me a shock all the same."
 
 They sat down by the fire again while the two men finished their pipes. Outside, the wind was higher than ever, and the old man started nervously at the sound of a door banging upstairs. A silence unusual and depressing settled upon all three, which lasted until the old couple rose to retire for the night.
 
@@ -118,22 +137,24 @@ They sat down by the fire again while the two men finished their pipes. Outside,
 
 He sat alone in the darkness, gazing at the dying fire, and seeing faces in it. The last face was so horrible and so simian that he gazed at it in amazement. It got so vivid that, with a little uneasy laugh, he felt on the table for a glass containing a little water to throw over it. His hand grasped the monkey's paw, and with a little shiver he wiped his hand on his coat and went up to bed.
 
-II. In the brightness of the wintry sun next morning as it streamed over the breakfast table Herbert laughed at his fears. There was an air of prosaic wholesomeness about the room which it had lacked on the previous night, and the dirty, shrivelled little paw was pitched on the sideboard with a carelessness which betokened no great belief in its virtues.
+## Part II
+- II. In the brightness of the wintry sun next morning as it streamed over the breakfast table Herbert laughed at his fears. There was an air of prosaic wholesomeness about the room which it had lacked on the previous night, and the dirty, shrivelled little paw was pitched on the sideboard with a carelessness which betokened no great belief in its virtues.
 
-"I suppose all old soldiers are the same," said Mrs. White. "The idea of our listening to such nonsense! How could wishes be granted in these days? And if they could, how could two hundred pounds hurt you, father?"
+- "I suppose all old soldiers are the same," said Mrs. White. "The idea of our listening to such nonsense! How could wishes be granted in these days? And if they could, how could two hundred pounds hurt you, father?"
 
-"Might drop on his head from the sky," said the frivolous Herbert.
+- "Might drop on his head from the sky," said the frivolous Herbert.
 
-"Morris said the things happened so naturally," said his father, "that you might if you so wished attribute it to coincidence."
+- "Morris said the things happened so naturally," said his father, "that you might if you so wished attribute it to coincidence."
 
-"Well, don't break into the money before I come back," said Herbert, as he rose from the table. "I'm afraid it'll turn you into a mean, avaricious man, and we shall have to disown you."
+- "Well, don't break into the money before I come back," said Herbert, as he rose from the table. "I'm afraid it'll turn you into a mean, avaricious man, and we shall have to disown you."
 
-His mother laughed, and following him to the door, watched him down the road, and returning to the breakfast table, was very happy at the expense of her husband's credulity. All of which did not prevent her from scurrying to the door at the postman's knock, nor prevent her from referring somewhat shortly to retired sergeant-majors of bibulous habits when she found that the post brought a tailor's bill.
+- His mother laughed, and following him to the door, watched him down the road, and returning to the breakfast table, was very happy at the expense of her husband's credulity. All of which did not prevent her from scurrying to the door at the postman's knock, nor prevent her from referring somewhat shortly to retired sergeant-majors of bibulous habits when she found that the post brought a tailor's bill.
 
-"Herbert will have some more of his funny remarks, I expect, when he comes home," she said, as they sat at dinner.
+- "Herbert will have some more of his funny remarks, I expect, when he comes home," she said, as they sat at dinner.
 "I dare say," said Mr. White, pouring himself out some beer; "but for all that, the thing moved in my hand; that I'll swear to."
 
-"You thought it did," said the old lady soothingly.
+- "You thought it did," said the old lady soothingly.
+
 QUESTION 3 DOK 2  7 ALIGNED STANDARDS
 
 What is the family's attitude to the monkey's paw?
