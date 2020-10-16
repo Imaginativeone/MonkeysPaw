@@ -1,20 +1,27 @@
-The Monkey's Paw
+# The Monkey's Paw
 W.W. Jacobs
-Without, the night was cold and wet, but in the small parlour of Laburnam Villa the blinds were drawn and the fire burned brightly. Father and son were at chess, 
+
+- Without, the night was cold and wet, but in the small parlour of Laburnam Villa the blinds were drawn and the fire burned brightly. Father and son were at chess, 
 the former, who possessed ideas about the game involving radical changes, putting his king into such sharp and unnecessary perils that it even provoked comment 
 from the white-haired old lady knitting placidly by the fire.
 
-"Hark at the wind," said Mr. White, who, having seen a fatal mistake after it was too late, was amiably desirous of preventing his son from seeing it.
+- "Hark at the wind," said Mr. White, who, having seen a fatal mistake after it was too late, was amiably desirous of preventing his son from seeing it.
 "I'm listening," said the latter, grimly surveying the board as he stretched out his hand. "Check."
 "I should hardly think that he'd come to-night," said his father, with his hand poised over the board.
+
 "Mate," replied the son.
+
 "That's the worst of living so far out," bawled Mr. White, with sudden and unlooked-for violence; "of all the beastly, slushy, out-of-the- way places to live in, this is the worst. Pathway's a bog, and the road's a torrent. I don't know what people are thinking about. I suppose because only two houses on the road are let, they think it doesn't matter."
+
 "Never mind, dear," said his wife soothingly; "perhaps you'll win the next one."
 Mr. White looked up sharply, just in time to intercept a knowing glance between mother and son. The words died away on his lips, and he hid a guilty grin in his thin grey beard.
+
 "There he is," said Herbert White, as the gate banged too loudly and heavy footsteps came toward the door.
 The old man rose with hospitable haste, and opening the door, was heard condoling with the new arrival. The new arrival also condoled with himself, so that Mrs. White said, "Tut, tut!" and coughed gently as her husband entered the room, followed by a tall burly man, beady of eye and rubicund of visage.
 "Sergeant-Major Morris," he said, introducing him.
+
 The sergeant-major shook hands, and taking the proffered seat by the fire, watched contentedly while his host got out whisky and tumblers and stood a small copper kettle on the fire.
+
 At the third glass his eyes got brighter, and he began to talk, the little family circle regarding with eager interest this visitor from distant parts, as he squared his broad shoulders in the chair and spoke of strange scenes and doughty deeds; of wars and plagues and strange peoples.
 "Twenty-one years of it," said Mr. White, nodding at his wife and son. "When he went away he was a slip of a youth in the warehouse. Now look at him."
 "He don't look to have taken much harm," said Mrs. White, politely.
@@ -40,45 +47,27 @@ His tones were so grave that a hush fell upon the group.
 "If you've had your three wishes, it's no good to you now, then, Morris," said the old man at last. "What do you keep it for?"
 The soldier shook his head. "Fancy, I suppose," he said slowly.
 "If you could have another three wishes," said the old man, eyeing him keenly, "would you have them?"
-
 "I don't know," said the other. "I don't know."
-
 He took the paw, and dangling it between his front finger and thumb, suddenly threw it upon the fire. White, with a slight cry, stooped down and snatched it off.
-
 "Better let it burn," said the soldier solemnly.
-
 "If you don't want it, Morris," said the old man, "give it to me."
-
 "I won't," said his friend doggedly. "I threw it on the fire. If you keep it, don't blame me for what happens. Pitch it on the fire again, like a sensible man."
-
 The other shook his head and examined his new possession closely. "How do you do it?" he inquired.
-
 "Hold it up in your right hand and wish aloud,' said the sergeant-major, "but I warn you of the consequences."
 QUESTION 2 DOK 1  7 ALIGNED STANDARDS
-
 What warning does the soldier give to Mr. White?
-
 EXPLANATION
 The soldier warns Mr. White of the consequences of using the monkey's paw.
-
-
 CORRECT
 MEANSWER
-	
+
 to avoid unnecessary fires
-
-	
 to avoid fighting in the king's army
-
-	
 to avoid using the monkey's paw
-
-
 "Sounds like the Arabian Nights," said Mrs. White, as she rose and began to set the supper. "Don't you think you might wish for four pairs of hands for me?"
-
 Her husband drew the talisman from his pocket and then all three burst into laughter as the sergeant-major, with a look of alarm on his face, caught him by the arm.
-"If you must wish," he said gruffly, "wish for something sensible."
 
+"If you must wish," he said gruffly, "wish for something sensible."
 Mr. White dropped it back into his pocket, and placing chairs, motioned his friend to the table. In the business of supper the talisman was partly forgotten, and afterward the three sat listening in an enthralled fashion to a second installment of the soldier's adventures in India.
 
 "If the tale about the monkey paw is not more truthful than those he has been telling us," said Herbert, as the door closed behind their guest, just in time for him to catch the last train, "we shan't make much out of it."
@@ -110,9 +99,7 @@ They sat down by the fire again while the two men finished their pipes. Outside,
 
 He sat alone in the darkness, gazing at the dying fire, and seeing faces in it. The last face was so horrible and so simian that he gazed at it in amazement. It got so vivid that, with a little uneasy laugh, he felt on the table for a glass containing a little water to throw over it. His hand grasped the monkey's paw, and with a little shiver he wiped his hand on his coat and went up to bed.
 
-II.
-
-IN the brightness of the wintry sun next morning as it streamed over the breakfast table Herbert laughed at his fears. There was an air of prosaic wholesomeness about the room which it had lacked on the previous night, and the dirty, shrivelled little paw was pitched on the sideboard with a carelessness which betokened no great belief in its virtues.
+II. In the brightness of the wintry sun next morning as it streamed over the breakfast table Herbert laughed at his fears. There was an air of prosaic wholesomeness about the room which it had lacked on the previous night, and the dirty, shrivelled little paw was pitched on the sideboard with a carelessness which betokened no great belief in its virtues.
 
 "I suppose all old soldiers are the same," said Mrs. White. "The idea of our listening to such nonsense! How could wishes be granted in these days? And if they could, how could two hundred pounds hurt you, father?"
 
@@ -135,9 +122,7 @@ What is the family's attitude to the monkey's paw?
 EXPLANATION
 The family has been making sarcastic comments about the monkey's paw. When Herbert says, "Don't break in to the money before I come back," he is joking about how the monkey's paw doesn't work.
 
-
-CORRECT
-MEANSWER
+CORRECT ME ANSWER
 	
 They make fun of it and don't believe it will come to anything.
 
