@@ -60,7 +60,12 @@ His three listeners leaned forward eagerly. The visitor absentmindedly put his e
 
 - He took something out of his pocket and proffered it. Mrs. White drew back with a grimace, but her son, taking it, examined it curiously.
 "And what is there special about it?" inquired Mr. White, as he took it from his son and, having examined it, placed it upon the table.
-"It had a spell put on it by an old fakir," said the sergeant-major, "a very holy man. He wanted to show that fate ruled people's lives, and that those who interfered with it did so to their sorrow. He put a spell on it so that three separate men could each have three wishes from it."
+
+**"It had a spell put on it by an old fakir," said the sergeant-major, "a very holy man.**
+**He wanted to show that fate ruled people's lives, and that those who interfered with it did so to their sorrow.**
+
+He put a spell on it so that three separate men could each have three wishes from it."
+
 His manner was so impressive that his hearers were conscious that their light laughter jarred somewhat.
 "Well, why don't you have three, sir?" said Herbert White cleverly.
 
@@ -77,6 +82,7 @@ His tones were so grave that a hush fell upon the group.
 - "If you've had your three wishes, it's no good to you now, then, Morris," said the old man at last. "What do you keep it for?"
 The soldier shook his head. "Fancy, I suppose," he said slowly.
 
+## If the Sergeant Major Could Do It All Over Again, He might choose differently
 - "If you could have another three wishes," said the old man, eyeing him keenly, "would you have them?"
 "I don't know," said the other. "I don't know."
 
@@ -86,19 +92,10 @@ The soldier shook his head. "Fancy, I suppose," he said slowly.
 
 ## Possible Comments About Fate
 "I won't," said his friend doggedly. "I threw it on the fire. If you keep it, don't blame me for what happens. Pitch it on the fire again, like a sensible man."
+
 The other shook his head and examined his new possession closely. "How do you do it?" he inquired.
 "Hold it up in your right hand and wish aloud,' said the sergeant-major, "but I warn you of the consequences."
 
-QUESTION 2 DOK 1  7 ALIGNED STANDARDS
-What warning does the soldier give to Mr. White?
-EXPLANATION
-The soldier warns Mr. White of the consequences of using the monkey's paw.
-CORRECT
-MEANSWER
-
-to avoid unnecessary fires
-to avoid fighting in the king's army
-to avoid using the monkey's paw
 "Sounds like the Arabian Nights," said Mrs. White, as she rose and began to set the supper. "Don't you think you might wish for four pairs of hands for me?"
 Her husband drew the talisman from his pocket and then all three burst into laughter as the sergeant-major, with a look of alarm on his face, caught him by the arm.
 
@@ -121,14 +118,12 @@ Mr. White dropped it back into his pocket, and placing chairs, motioned his frie
 - His father, smiling shamefacedly at his own credulity, held up the talisman, as his son, with a solemn face somewhat marred by a wink at his mother, sat down at the piano and struck a few impressive chords.
 
 - "I wish for two hundred pounds," said the old man distinctly.
-
 - A fine crash from the piano greeted the words, interrupted by a shuddering cry from the old man. His wife and son ran toward him.
 
 - "It moved," he cried, with a glance of disgust at the object as it lay on the floor. "As I wished it twisted in my hands like a snake."
 "Well, I don't see the money," said his son, as he picked it up and placed it on the table, "and I bet I never shall."
 
 - "It must have been your fancy, father," said his wife, regarding him anxiously.
-
 - He shook his head. "Never mind, though; there's no harm done, but it gave me a shock all the same."
 
 They sat down by the fire again while the two men finished their pipes. Outside, the wind was higher than ever, and the old man started nervously at the sound of a door banging upstairs. A silence unusual and depressing settled upon all three, which lasted until the old couple rose to retire for the night.
@@ -143,7 +138,6 @@ He sat alone in the darkness, gazing at the dying fire, and seeing faces in it. 
 - "I suppose all old soldiers are the same," said Mrs. White. "The idea of our listening to such nonsense! How could wishes be granted in these days? And if they could, how could two hundred pounds hurt you, father?"
 
 - "Might drop on his head from the sky," said the frivolous Herbert.
-
 - "Morris said the things happened so naturally," said his father, "that you might if you so wished attribute it to coincidence."
 
 - "Well, don't break into the money before I come back," said Herbert, as he rose from the table. "I'm afraid it'll turn you into a mean, avaricious man, and we shall have to disown you."
@@ -201,7 +195,6 @@ There was no reply; the old woman's face was white, her eyes staring, and her br
 "I was to say that Maw and Meggins disclaim all responsibility," continued the other. "They admit no liability at all, but in consideration of your son's services they wish to present you with a certain sum as compensation."
 
 Mr. White dropped his wife's hand, and rising to his feet, gazed with a look of horror at his visitor. His dry lips shaped the words, "How much?"
-
 "Two hundred pounds," was the answer.
 
 Unconscious of his wife's shriek, the old man smiled faintly, put out his hands like a sightless man, and dropped, a senseless heap, to the floor.
